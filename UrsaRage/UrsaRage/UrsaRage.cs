@@ -244,7 +244,7 @@
                 scytheOfVyse = me.FindItem("item_sheepstick");
                 loaded = true;
                 Game.PrintMessage(
-                    "<font color='#3377ff'>UrsaRage</font>: loaded! <font face='Tahoma' size='9'>(by MOON<font color='#ff9900'>ES</font>)</font>",
+                    "<font color='#3377ff'></font>: Gl Hf  <font face='Tahoma' size='9'>(GUYS<font color='#ff9900'></font>)</font>",
                     MessageType.ChatMessage);
             }
 
